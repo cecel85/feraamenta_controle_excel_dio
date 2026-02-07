@@ -1,2 +1,2 @@
-# feraamenta_controle_excel_dio
-Projeto de criação de ferramenta de controle de investimentos com excel para curso da fio.
+# Ferramenta de contro de investimentos
+Projeto de criação de ferramenta de controle de investimentos com excel para curso da dio.
